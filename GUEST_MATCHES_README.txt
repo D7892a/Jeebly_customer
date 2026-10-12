@@ -1,0 +1,1 @@
+V5: Match sides may be registered teams or guest teams. Guest names/areas/logos are stored on each match. A guest match cannot be attached to a registered tournament; standings are unchanged. Existing data preserved. Requires hosted deployment and signed-in admin to test uploads.
